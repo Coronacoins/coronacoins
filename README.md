@@ -1,2 +1,2 @@
 # coronacoins
-Vjm
+coin peer to peer
